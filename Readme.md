@@ -39,7 +39,4 @@ This project was a collaborative effort by:
     * **Command Line:** Select any end device (PC/Laptop), go to the **Desktop** tab > **Command Prompt**, and use the `ping` command to test communication between different building subnets (e.g., pinging from CSB3 to CSB4).
 
 ## License
-This project was developed for academic purposes as part of the BS Information Technology curriculum at Bicol University.
-
----
-*Created for the Bicol University College of Science (BUCS) - 2026.*
+This project was developed and submitted as a **Final Project for the course Networking 1** under the BS Information Technology curriculum at Bicol University. It is intended for academic and demonstration purposes only.
